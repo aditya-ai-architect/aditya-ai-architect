@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Gaurav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Systems%20Architect%20|%20Multi-Agent%20Engineer%20|%2018%20y/o&descAlignY=52&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Gaurav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Systems%20Architect%20|%20Multi-Agent%20Engineer&descAlignY=52&descSize=18"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Production+AI+Systems;3+Live+Deployments+in+4+Months;The+Honest+Builder+-+Faster+and+Cheaper" alt="Typing SVG" /></a>
@@ -21,11 +21,10 @@
 ```javascript
 const aditya = {
     pronouns: "he/him",
-    age: 18,
     location: "Sonipat, Haryana, India",
     education: "Sainik School Rewari (Ministry of Defence)",
     currentFocus: "Multi-Agent AI Systems",
-    funFact: "Shipped 3 production AI systems before turning 18!"
+    funFact: "Shipped 3 production AI systems!"
 };
 ```
 
@@ -132,7 +131,7 @@ const aditya = {
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-adityaai.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adityaai.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Gaurav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityagaurav-2761b3318)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Gaurav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaai)
 [![Email](https://img.shields.io/badge/Email-aiexpert%40adityaai.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aiexpert@adityaai.dev)
 
 </div>
